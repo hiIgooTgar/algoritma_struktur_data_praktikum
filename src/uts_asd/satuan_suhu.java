@@ -1,4 +1,4 @@
-package igo_home;
+package uts_asd;
 // import Scanner
 import java.util.Scanner;
 

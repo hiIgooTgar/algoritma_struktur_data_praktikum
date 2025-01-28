@@ -1,7 +1,7 @@
-package igo_home;
+package uts_asd;
 import java.util.Scanner;
 
-public class Igo_home_1 {
+public class Igo_circle_phi {
 
    
     public static void main(String[] args) {
